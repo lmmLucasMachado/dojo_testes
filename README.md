@@ -1,2 +1,3 @@
 # dojo_testes
-Dojo de testes para mds
+
+Primeiro contato com testes para mds.
